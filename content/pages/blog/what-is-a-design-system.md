@@ -4,7 +4,7 @@ title: What is a Design System
 slug: what-is-a-design-system
 date: '2023-02-14'
 excerpt: >-
-  A Design System is a comprehensive set of standards, principles, and tools that guide the design and development of a product or service. It provides a unified framework to ensure consistency, efficiency, and scalability across a product's user interface (UI) and user experience (UX).
+  A Design System is a comprehensive set of guidelines, components, and tools that help teams create consistent, scalable, and efficient user interfaces across digital products.
 featuredImage:
   url: /images/abstract-feature3.svg
   altText: Thumbnail
@@ -17,7 +17,7 @@ isFeatured: false
 isDraft: false
 seo:
   metaTitle: What is a Design System
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
+  metaDescription: At Nobious System, we often help startups and enterprises build or refine their design systems to accelerate product development and maintain brand integrity.
   socialImage: /images/abstract-feature3.svg
   type: Seo
 colors: bg-light-fg-dark

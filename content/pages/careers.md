@@ -11,11 +11,8 @@ sections:
       type: TitleBlock
     subtitle: Section subtitle
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+     A Team That Works Closely Together – The Nobious Culture
+      "At Nobious System, collaboration isn’t just a value—it’s our way of working. Every project begins with shared goals and open communication. Our developers, architects, and consultants sit side by side (virtually or in person), solving problems together, reviewing code, and refining strategies. Whether we’re integrating MuleSoft APIs or deploying AI models, we move as one team—with trust, transparency, and a shared drive to deliver excellence. Because when people work closely together, innovation flows naturally."
     actions:
       - label: See open positions
         url: /
@@ -86,9 +83,13 @@ sections:
       - title: Account Executive
         subtitle: Sales
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+            Account Executive – Role Overview
+            As an Account Executive at Nobious System, you’ll be responsible for driving client relationships, identifying new business opportunities, and delivering tailored software consulting solutions. You’ll work closely with cross-functional teams to understand client needs, present value-driven proposals, and ensure successful project delivery.
+            Key Focus Areas:
+            Building and maintaining strong client relationships
+            Managing the full sales cycle from lead generation to closing
+            Collaborating with technical teams to align solutions with client goals
+            Tracking performance metrics and reporting on pipeline progress
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -105,9 +106,7 @@ sections:
       - title: Open Source Engineer
         subtitle: Marketing
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+            We are seeking a highly motivated and experienced Digital Marketing Manager to lead our online marketing efforts. You will be responsible for developing, implementing, and managing marketing campaigns that promote our brand, products, and services. Your role will be crucial in enhancing brand awareness within the digital space and driving website traffic and lead generation.
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -124,9 +123,7 @@ sections:
       - title: Senior Software Engineer
         subtitle: Engineering
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+            We are looking for a highly skilled and experienced Senior Software Engineer to join our development team. You will play a key role in designing, developing, and maintaining scalable software solutions. As a senior member of the team, you will also mentor junior engineers, contribute to architectural decisions, and help drive best practices across the engineering organization.
         colors: bg-neutral-fg-dark
         styles:
           self:
@@ -159,8 +156,8 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
 seo:
-  metaTitle: Careers - Demo site
-  metaDescription: This is the careers page built with Netlify Create.
+  metaTitle: Careers 
+  metaDescription: careers page .
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

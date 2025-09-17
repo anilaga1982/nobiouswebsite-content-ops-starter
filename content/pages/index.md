@@ -4,14 +4,14 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Empower your team and accelerate your path to production with Nobious.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+        Nobious helps teams move faster by removing development bottlenecks and streamlining workflows.
+        We provide tools and platforms that accelerate time to production and improve team collaboration.
+        From idea to deployment, Nobious empowers engineering teams to deliver with confidence and speed.
     actions:
       - label: Get started
         altText: ''
@@ -33,7 +33,7 @@ sections:
         type: Link
     media:
       url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
+      altText: Empower your team and accelerate your path to production with Nobious.
       elementId: ''
       type: ImageBlock
     badge:
