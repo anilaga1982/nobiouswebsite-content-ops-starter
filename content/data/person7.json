@@ -1,10 +1,10 @@
 {
     "type": "Person",
-    "name": "Bhargava Krishna",
-    "role": "Senior Architect and Director",
+    "name": "Anil Agarwal",
+    "role": "Co-founder & Director",
     "image": {
-        "url": "/images/avatar3.svg",
-        "altText": "Bhargava Krishna",
+        "url": "/images/avatar6.svg",
+        "altText": "Harrison Tally",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Java | Spring Boot | Mulesoft | Cloud Architecture | Solution Architecture| Developer | AI enthusiast.\n"
+    "bio": "Senior Solutions Architect | Mulesoft |Cloud (AWS | Azure | GCP) | Java | Data | AI Enthusiastic \n"
 }

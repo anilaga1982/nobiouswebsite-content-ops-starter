@@ -1,9 +1,9 @@
 {
-    "name": "Rhonda Piper",
-    "role": "Job title",
+    "name": "Gourav Dubey",
+    "role": "Social Media Manager",
     "image": {
         "url": "/images/avatar1.svg",
-        "altText": "Rhonda Piper",
+        "altText": "Gourav Dubey",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -32,5 +32,5 @@
         }
     },
     "type": "Person",
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "MuleSoft Ambassador | Nagpur, Goa MuleSoft Meetup Leader.\n"
 }

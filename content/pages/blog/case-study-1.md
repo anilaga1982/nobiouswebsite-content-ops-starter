@@ -27,12 +27,10 @@ bottomSections:
           - pr-7
     type: DividerSection
   - items:
-      - title: About Company
-        tagline: This is the tagline
+      - title: Nobious Systems
+        tagline: Empowering Digital Transformation Since 2014
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          At Nobious System, we specialize in delivering cutting-edge software consulting solutions that drive innovation and scalability. Since our inception in 2014, we've partnered with a diverse range of clients to architect and implement transformative technologies across.
         image:
           url: /images/telus-logo.svg
           altText: Company logo

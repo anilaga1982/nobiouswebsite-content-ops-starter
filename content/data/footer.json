@@ -4,7 +4,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "At Nobious System, we specialize in delivering cutting-edge software consulting solutions that drive innovation and scalability",
     "primaryLinks": {
         "title": "Product",
         "links": [
@@ -103,7 +103,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "Powered by [Nobious systems](https://www.nobioussystems.com/)\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
