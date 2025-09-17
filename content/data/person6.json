@@ -1,7 +1,7 @@
 {
     "type": "Person",
-    "name": "Harrison Tally",
-    "role": "Co-founder & CEO",
+    "name": "Dharmendra choubey",
+    "role": "Co-founder & Director",
     "image": {
         "url": "/images/avatar6.svg",
         "altText": "Harrison Tally",
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Software Consulting: Solution-driven architecture enables scalable transformation across enterprise ecosystems. Agile methodologies empower cross-functional teams to iterate on cloud-native platforms. Leveraging DevOps pipelines and CI/CD workflows, we optimize delivery cycles and enhance stakeholder value. Digital innovation aligns with strategic KPIs to ensure robust ROI and seamless integration. Microservices and containerization foster modular development, while data-driven insights inform actionable roadmaps. \n"
 }
