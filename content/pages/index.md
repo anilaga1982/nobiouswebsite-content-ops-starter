@@ -7,7 +7,7 @@ sections:
       text: Empower your team and accelerate your path to production with Nobious.
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Empower your team 
     text: >
         Nobious helps teams move faster by removing development bottlenecks and streamlining workflows.
         We provide tools and platforms that accelerate time to production and improve team collaboration.
@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: accelerate your path to production
       color: text-primary
       type: Badge
     elementId: ''
@@ -59,7 +59,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: act as a trusted partner
     items:
       - type: FeaturedItem
         title: 50+ client served
@@ -143,7 +143,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Nobious systems
       color: text-primary
       styles:
         self:
@@ -333,7 +333,7 @@ sections:
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Nobious systems
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -580,9 +580,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Nobious systems
     items:
-      - title: Feature Item One
+      - title: Nobious services 
         tagline: Cloud Migration Services
         subtitle: Cloud Migration Services
         text: |
@@ -605,7 +605,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: Nobious services 
         tagline: System Integration with MuleSoft
         subtitle: System Integration with MuleSoft
         text: |
