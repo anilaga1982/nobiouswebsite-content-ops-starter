@@ -62,12 +62,10 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
+        title: 50+ client served
+        subtitle: AI, Mulesoft and cloud migration
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Nobious acts as a trusted partner, guiding clients through each step to maximize value from technology investments.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -91,11 +89,9 @@ sections:
             self:
               borderRadius: x-large
       - title: 20x
-        subtitle: The Job Stuff
+        subtitle: Partner engagement with 20+ clients
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+         Nobious partners with over 20 clients as a trusted technology and integration service provider. Their partnership model allows them to work alongside client teams or as temporary team members, helping clients deliver projects they may not have the internal capacity to handle alone. With 15+ years of experience, Nobious supports clients in business process automation, software integration, and custom development, offering flexible engagement and competitive rates to maximize value and success for each client.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -116,11 +112,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 200%
-        subtitle: Faster
+        subtitle: 200% business revenue growth for partner clients
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+         Through strategic partner engagement, clients have achieved over 200% business revenue growth. By realigning partner strategies, leveraging trusted platforms, and focusing on seamless collaboration, companies have unlocked new levels of scalable growth. For example, Omnisend saw over 200% year-over-year growth in partner-attributed revenue by strengthening their partner program and infrastructure1. Similarly, other firms have experienced meteoric growth by forming large-scale partnerships, enabling them to expand market reach and accelerate business outcomes 2. Industry data shows that strong partner ecosystems can directly generate significant revenue, with some companies attributing up to 50% of their total revenue to partnerships
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -235,12 +229,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: Grow your business 10x faster by leveraging Nobious
     text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+      AGrow your business 10x faster by leveraging Nobious’ expertise in AI, integration, and cloud migration. Our proven strategies, advanced automation, and seamless technology partnerships empower clients to accelerate innovation, streamline operations, and unlock exponential revenue growth.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
@@ -278,18 +269,15 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Nobious is a trusted technology partner
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: Nobious is a trusted technology partner
     text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+      Nobious is a trusted technology partner, helping organizations accelerate digital transformation and achieve business goals. With deep expertise in AI, integration, and cloud solutions, we empower clients to innovate, streamline operations, and drive sustainable growth. Our flexible engagement models, experienced consultants, and proven methodologies ensure successful project delivery and measurable results for every client.
     actions: []
     media:
       title: Title of the video
@@ -320,13 +308,12 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: Social Media Management by Nobious
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Social Media Management by Nobious
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Nobious offers end-to-end social media management services to help businesses build a strong online presence and engage their audience effectively. Our team creates tailored content, manages posting schedules, monitors engagement, and analyzes performance across all major platforms. With a focus on brand consistency and measurable results, Nobious ensures your social channels drive awareness, loyalty, and business growth.
     actions:
       - label: Get started
         url: /
@@ -358,10 +345,9 @@ sections:
       text: Business Consulting
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: BBusiness Consulting by Nobious
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+        Nobious provides expert business consulting services to help organizations solve complex challenges, optimize operations, and accelerate growth. Our consultants work closely with clients to understand their unique needs, develop tailored strategies, and implement effective solutions. With a focus on innovation, efficiency, and measurable results, Nobious empowers businesses to achieve their goals and stay ahead in a competitive market.
     actions:
       - label: Get started
         url: /
@@ -405,14 +391,17 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “What Our Customers Say About Us”
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          “Nobious has become a valuable extension of our team. They took the time to understand our unique needs and delivered custom solutions that helped us succeed.” 
+
+          “The new Nobious system now allows us to track everything we need using barcode scanners and automated processes. We can take pictures of our marble slabs, scan vendor barcodes directly into the system, and charge items directly to a job.” 
+
+          “Nobious empowers our business with real-time data, boosting efficiency and profitability. Their solutions have helped us save 15–30% on inventory costs.” 
+
+          “Their team delivers comprehensive, cutting-edge technology that integrates directly with our existing systems, making our workflows seamless and efficient.” 
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
@@ -435,13 +424,11 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
+          "Our Purpose at Nobious"
         tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
+        subtitle: 'We are dedicated to helping clients transform their businesses'
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          At Nobious, our purpose is to empower organizations to achieve their full potential through innovative technology solutions. We are dedicated to helping clients transform their businesses, streamline operations, and drive sustainable growth by leveraging the latest advancements in AI, integration, and cloud technologies. Our commitment is to deliver measurable value, foster long-term partnerships, and make a positive impact on every client’s journey.
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
@@ -466,11 +453,9 @@ sections:
       - title: >-
           "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Why Good Design and Solution Matter at Nobious'
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          At Nobious, we believe that great design and robust solutions are the foundation of business success. Good design ensures that technology is intuitive, user-friendly, and aligned with business goals. A well-architected solution delivers reliability, scalability, and long-term value. By focusing on both, Nobious helps clients reduce complexity, improve user adoption, and achieve measurable results—turning technology investments into real business outcomes.
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
@@ -493,14 +478,18 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “How We Protect and Build Secure Solutions”
         tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'At Nobious, security is at the core of every solution'
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+            At Nobious, security is at the core of every solution we design and deliver. We follow industry best practices and compliance standards to ensure your data and systems are protected at every stage. Our approach includes:
+
+            Secure Architecture: Designing solutions with layered security, encryption, and access controls from the ground up.
+            Data Protection: Implementing robust data privacy measures, secure storage, and encrypted communications.
+            Continuous Monitoring: Using advanced monitoring tools to detect and respond to threats in real time.
+            Compliance: Adhering to relevant regulations and standards (such as ISO, GDPR, and industry-specific requirements).
+            Regular Audits: Conducting security assessments and vulnerability testing to identify and address risks proactively.
+            Employee Training: Ensuring our team is up to date with the latest security protocols and best practices.
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
@@ -523,16 +512,14 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
+          "Business Consulting"
         tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
+        subtitle: 'challenges, optimize operations'
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+            Get expert advice to solve challenges, optimize operations, and accelerate growth.
         image:
           url: /images/person-placeholder-light.png
-          altText: Maria Walters
+          altText: Nobious systems
           styles:
             self:
               borderRadius: full
@@ -552,13 +539,11 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
+          “Social Media Management”
         tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
+        subtitle: 'Social Media Management'
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+            Enhance your brand presence and engage your audience with tailored social media strategies.
         image:
           url: /images/img-placeholder-dark.png
           altText: Jane Doe
@@ -589,7 +574,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: features
       color: text-primary
       styles:
         self:
@@ -598,10 +583,10 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+        tagline: Cloud Migration Services
+        subtitle: Cloud Migration Services
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Move your business to the cloud securely and efficiently, ensuring scalability and cost savings.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
@@ -621,10 +606,10 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+        tagline: System Integration with MuleSoft
+        subtitle: System Integration with MuleSoft
         text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+          Connect all your applications, data, and devices seamlessly for real-time insights and efficiency.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
@@ -643,11 +628,11 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: intelligent automation solutions
+        tagline: AI-Powered Automation
+        subtitle: AI-Powered Automation
         text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+          Streamline business processes and boost productivity with intelligent automation solutions.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
@@ -683,12 +668,11 @@ sections:
       text: Generic Section With A Form
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: Contact Nobious Systems
     text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+      Nobious Systems is committed to helping organizations achieve their technology goals with innovative, secure, and scalable solutions. Whether you’re looking to streamline operations, integrate new systems, or accelerate digital transformation, our team is ready to help.
+
+      Get in touch with us today to discuss your needs or request a consultation.
     media:
       fields:
         - name: name
@@ -740,7 +724,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Nobious Systems 
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Nobious Systems.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
